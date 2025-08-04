@@ -87,4 +87,6 @@ This Weather App is a great beginner-friendly project that demonstrates working 
 
 output:
 
+<img width="507" height="473" alt="Image" src="https://github.com/user-attachments/assets/d968820f-5de8-4bcf-967f-f5105448accb" />
+
 
